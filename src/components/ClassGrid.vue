@@ -15,8 +15,8 @@
       >
         <p class="text-xl text-blue-900 font-bold">{{ cls.class }}</p>
       </div>
-      <div class="text-center">
-        <p>{{ cls.sub }}</p>
+      <div class="text-center mt-2">
+        <p class="text-gray-500">{{ cls.sub }}</p>
       </div>
     </div>
   </div>

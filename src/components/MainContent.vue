@@ -4,6 +4,7 @@
       <search-bar></search-bar>
     </div>
     <div class="m-2">
+      <h1 class="text-2xl font-bold my-3">Offers</h1>
       <the-carousel></the-carousel>
     </div>
     <div class="m-2">
